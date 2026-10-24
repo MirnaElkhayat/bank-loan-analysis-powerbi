@@ -11,10 +11,11 @@ The report contains multiple pages, including **Summary** and **Overview**, to h
 - Interactive report design
 
 ## Report file
-The Power BI `.pbix` file will be added after its embedded data is checked for public sharing.
+The Power BI report is available as `project 2.pbix`.
 
 ## How to use
-Download the report file when available and open it in Power BI Desktop.
+Download `project 2.pbix` and open it in Power BI Desktop.
 
 ## Purpose
 Demonstrate dashboard design and business analysis using financial lending data.
+
